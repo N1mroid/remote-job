@@ -784,7 +784,7 @@ function the_job_location( $map_link = true, $post = null ) {
 	$location = get_the_job_location( $post );
 
 	if ( $location ) {
-		if ( $map_link ) {
+		if ( $map_link = false ) {
 			// If linking to google maps, we don't want anything but text here.
 			echo wp_kses_post(
 				apply_filters(
