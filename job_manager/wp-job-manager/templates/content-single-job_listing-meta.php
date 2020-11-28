@@ -34,7 +34,7 @@ do_action( 'single_job_listing_meta_before' ); ?>
 		<?php endforeach; endif; ?>
 	<?php } ?>
 
-	<li class="location"><?php the_job_location(); ?></li>
+	<li class="location"><?php the_job_location(false); ?></li>
 
 	<li class="date-posted"><?php the_job_publish_date(); ?></li>
 
