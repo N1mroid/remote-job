@@ -1,0 +1,56 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_jobscout-pro">
+      <key name="0"/>
+      <key name="nav_menu_locations">
+        <key name="primary"/>
+      </key>
+      <key name="custom_css_post_id"/>
+      <key name="step_section_steps">
+        <key name="*">
+          <key name="title"/>
+          <key name="subtitle"/>
+        </key>
+      </key>
+      <key name="sidebar"/>
+      <key name="post_job_label"/>
+      <key name="pagination_type"/>
+      <key name="load_more_label"/>
+      <key name="loading_label"/>
+      <key name="no_more_label"/>
+      <key name="external_header_video"/>
+      <key name="banner_title"/>
+      <key name="banner_subtitle"/>
+      <key name="popular_section_title"/>
+      <key name="popular_section_subtitle"/>
+      <key name="popular_job_types">
+        <key name="*">
+          <key name="job_type"/>
+        </key>
+      </key>
+      <key name="job_posting_section_title"/>
+      <key name="step_section_title"/>
+      <key name="blog_section_title"/>
+      <key name="blog_section_subtitle"/>
+      <key name="blog_view_all"/>
+      <key name="testimonial_section_title"/>
+      <key name="testimonial_section_subtitle"/>
+      <key name="ed_one_page"/>
+      <key name="label_popular"/>
+      <key name="label_jobs"/>
+      <key name="label_steps"/>
+      <key name="label_blog"/>
+      <key name="label_testimonial"/>
+      <key name="label_client"/>
+      <key name="header_signin_signout_url"/>
+      <key name="read_more_text"/>
+      <key name="author_title"/>
+      <key name="related_post_title"/>
+      <key name="related_job_title"/>
+      <key name="buttonset_404_latest"/>
+      <key name="page_404_latest_jobs_title"/>
+      <key name="page_404_latest_post_title"/>
+      <key name="footer_copyright"/>
+    </key>
+  </admin-texts>
+</wpml-config>
