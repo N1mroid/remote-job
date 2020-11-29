@@ -160,7 +160,7 @@ function gma_wpjmef_display_job_salary_data() {
   $important_info = get_post_meta( $post->ID, '_job_important_info', true );
 
   if ( $salary ) {
-    echo '<li class="wpjmef-field-salary">' . __( 'Salary: ' ) . esc_html( $salary ) . '</li>';
+    echo '<li class="wpjmef-field-salary">' . __( 'Зарплата: ' ) . esc_html( $salary ) . '</li>';
   }
 
 }
