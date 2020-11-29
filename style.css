@@ -1923,6 +1923,7 @@ HEADER T SECTION
 .site-header .header-t {
 	background: #F5F5F7;
 	padding: 8px 0;
+	display: none;
 }
 
 .site-header .header-t a:hover {
