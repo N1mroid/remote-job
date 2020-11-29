@@ -2101,7 +2101,7 @@ body.home:not(.banner-enabled) .site-header {
 }
 
 .site-branding .site-title a {
-	color: #2ACE5E;
+	color: #FFF !important;
 }
 
 .site-branding .site-description {
