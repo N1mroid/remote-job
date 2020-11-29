@@ -6067,9 +6067,10 @@ RESPONSIVE STYLESHEET
 		width: 40px;
 		height: 40px;
 		padding: 0;
-		display: inline-block;
+		/* display: inline-block; */
 		position: relative;
 		cursor: pointer;
+		display: none;
 	}
 
 	.header-main .main-navigation .toggle-btn .toggle-bar {
