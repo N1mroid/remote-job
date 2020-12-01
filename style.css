@@ -1228,15 +1228,20 @@ form.search-form input.search-submit:hover {
 	font-size: 1em;
 }
 
+/* Modified footer begin */
 .widget-area .widget ul li, 
 .site-footer .widget ul li {
-	margin-bottom: 15px;
+	/* margin-bottom: 15px;
 	padding-bottom: 15px;
-	border-bottom: 1px solid #E6E6E6;
+	border-bottom: 1px solid #E6E6E6; */
 	font-size: 0.888em;
 	font-weight: 400;
 }
 
+.tg-channels {
+	border-bottom: 1px solid #E6E6E6;
+}
+/* Modified footer end */
 .site-footer .widget ul li {
 	border-bottom-color: rgba(255,255,255,0.15);
 }
